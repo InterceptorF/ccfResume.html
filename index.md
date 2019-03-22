@@ -6,7 +6,7 @@
 
 <meta charset="UTF-8">
 
-<title>Title of the document</title>
+<title>GitHub Portfolio</title>
 
 </head>
 
